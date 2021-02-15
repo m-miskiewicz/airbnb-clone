@@ -1,0 +1,13 @@
+.home__section {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.home__sectionDark {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    background-color: #000;
+    color: #fff;
+}
